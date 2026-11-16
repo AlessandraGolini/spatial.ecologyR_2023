@@ -1,4 +1,4 @@
-# Spatial Ecology in R 👾
+# Spatial Ecology in R - Lectures 👾
 
 ## Professor 👨‍🔬
 Duccio Rocchini, president of the master program for few days more!!!
